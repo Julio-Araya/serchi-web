@@ -101,29 +101,36 @@ Visual animado (checklist de automatización):
 
 ## Prueba social
 
-- H2: **Equipos que ya están reclutando con Serchi**
-- Subtítulo: **Menos lectura de CVs. Más decisiones con evidencia.**
-- Empresas: Nutranicals · NOVA Logistics · Brinka
-- Testimonios (con 5 estrellas decorativas idénticas `[REVISAR]`):
-  - **«Ya no necesito leer cientos de CVs. Serchi los analiza por mí, me deja un shortlist claro y llego a la entrevista con preguntas mucho mejores.»** — María G., Gerente de Reclutamiento y Selección, NOVA Logistics
-  - **«Con Serchi, el equipo se enfoca más en lo estratégico: definir el perfil correcto, alinear criterios con las áreas y tomar decisiones con evidencia. Lo operativo —leer CVs, ordenar y priorizar— lo hace la IA.»** — Carlos R., Founder, Nutranicals
-  - **«Es una herramienta ágil y liviana. La implementamos rápido y ordenó todo el proceso: candidatos, etapas y feedback del equipo en un solo lugar.»** — Ana P., HR Manager, Brinka
-- Métricas (sin números — solo etiquetas `[REVISAR]`, contra la regla de "nada de números decorativos" al menos no inventaron cifras, pero como "métricas" son vacías):
+> ⚠️ **Toda esta sección es contenido placeholder inventado por Lovable.
+> Serchi no tiene usuarios en producción. Nada de aquí se migra.**
+> Ver la regla de prueba social en `.claude/rules/brand.md`.
+
+- H2: «Equipos que ya están reclutando con Serchi» `[FABRICADO — NO MIGRAR]` — afirma clientes que no existen
+- Subtítulo: **Menos lectura de CVs. Más decisiones con evidencia.** — (la frase en sí es rescatable como mensaje, no como prueba social)
+- Empresas: Nutranicals · NOVA Logistics · Brinka `[FABRICADO — NO MIGRAR]`
+- Testimonios `[FABRICADO — NO MIGRAR]` (además, 5 estrellas decorativas idénticas):
+  - «Ya no necesito leer cientos de CVs. Serchi los analiza por mí, me deja un shortlist claro y llego a la entrevista con preguntas mucho mejores.» — María G., Gerente de Reclutamiento y Selección, NOVA Logistics `[FABRICADO — NO MIGRAR]`
+  - «Con Serchi, el equipo se enfoca más en lo estratégico: definir el perfil correcto, alinear criterios con las áreas y tomar decisiones con evidencia. Lo operativo —leer CVs, ordenar y priorizar— lo hace la IA.» — Carlos R., Founder, Nutranicals `[FABRICADO — NO MIGRAR]`
+  - «Es una herramienta ágil y liviana. La implementamos rápido y ordenó todo el proceso: candidatos, etapas y feedback del equipo en un solo lugar.» — Ana P., HR Manager, Brinka `[FABRICADO — NO MIGRAR]`
+- Métricas `[FABRICADO — NO MIGRAR]` (sin números, solo etiquetas — pero presentadas como resultados de clientes que no existen):
   - Ahorro de tiempo — En procesos de selección
   - Más foco estratégico — Menos operación, más decisiones
   - Implementación rápida — Liviano y fácil de adoptar
 
 ## Precios
 
+> ⚠️ Las cifras `[VERIFICAR]` pueden estar desactualizadas respecto de la
+> configuración vigente en Lemon Squeezy. Confirmar antes de publicar.
+
 - H2: «Planes que escalan contigo»
 - Subtítulo: «Elige el plan que mejor se adapte a las necesidades de tu equipo»
-- **Starter** — Para equipos pequeños o consultoras boutique que quieren ordenar sus contrataciones. — **$49.000 CLP / mes** (~$54 USD)
+- **Starter** — Para equipos pequeños o consultoras boutique que quieren ordenar sus contrataciones. — **$49.000 CLP / mes** (~$54 USD) `[VERIFICAR]`
   - 3 procesos activos · Usuarios internos ilimitados (Admin, Recruiter, Hiring Manager) · Hiring Managers ilimitados · 1 company (empresa) / hasta 3 clientes (agencia) · Hasta 10 links de entrevistadores por mes · Bloque Tests (opcional): tests sugeridos por etapa (tooltip: «Si desactivas Tests, el flujo pasa directo a Entrevistas.»)
   - CTA: Empezar
-- **Pro** (Más popular) — Para equipos que contratan seguido y necesitan más control y colaboración. — **$119.000 CLP / mes** (~$132 USD)
+- **Pro** (Más popular) — Para equipos que contratan seguido y necesitan más control y colaboración. — **$119.000 CLP / mes** (~$132 USD) `[VERIFICAR]`
   - 8 procesos activos · Usuarios internos ilimitados · Hiring Managers ilimitados · 1 company / hasta 10 clientes (agencia) · Hasta 30 links de entrevistadores por mes · Bloque Tests (opcional) · Plantillas de tests por proceso
   - CTA: Empezar
-- **Growth** — Para equipos y agencias que escalan y necesitan operar con múltiples procesos. — **$299.000 CLP / mes** (~$332 USD)
+- **Growth** — Para equipos y agencias que escalan y necesitan operar con múltiples procesos. — **$299.000 CLP / mes** (~$332 USD) `[VERIFICAR]`
   - 20 procesos activos · Usuarios internos ilimitados · Hiring Managers ilimitados · 1 company / hasta 10 clientes (agencia) · Hasta 100 links de entrevistadores por mes · Bloque Tests (opcional) · Plantillas + defaults por etapa (configurable)
   - CTA: Empezar
 - Enterprise: **¿Necesitas Enterprise? Multiempresa avanzada, integraciones corporativas, SSO, SLA y personalización — Cotiza según equipo.** · «Hablar con ventas →»

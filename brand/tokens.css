@@ -11,7 +11,7 @@
   --orchid:  #C05CFF;   /* Orchid */
   --magenta: #FF4DA6;   /* Magenta */
   --amber:   #FF8C0A;   /* Amber */
-  --coral:   #FF7A7A;   /* Coral */
+  --coral:   #FF7A7A;   /* Coral — no está en la grilla "Núcleo de marca"; viene del :root del DS, la rampa Coral y el gradiente Brand */
 
   /* ── Superficies ─────────────────────────────────────────────── */
   --cream: #FFF7F0;     /* Cream — superficie por defecto */
@@ -30,7 +30,7 @@
   --success:      hsl(160 72% 34%);
   --warning:      hsl(35 92% 44%);
   --danger:       hsl(352 78% 50%);
-  --info:         hsl(252 70% 55%);
+  --info:         hsl(252 70% 55%);   /* definido en el :root del DS; no aparece en la grilla "Semánticos & UI" */
 
   /* ── Rampas tonales (50 → 900; 500 = color base) ─────────────── */
   /* 50–100 superficies · 500 base · 700–900 texto y hover */

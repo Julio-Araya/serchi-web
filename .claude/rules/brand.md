@@ -53,6 +53,14 @@ Una sola familia: **Outfit** (pesos 300–800). Jerarquía por peso antes que po
 tamaño. Mono: JetBrains Mono. Íconos: Lucide, stroke 2px, monocromos
 (`currentColor`); nunca emoji como ícono funcional.
 
+## Prueba social
+
+NUNCA usar testimonios, logos de clientes, cifras de uso, o cualquier otra
+forma de prueba social que no corresponda a un cliente real que lo haya
+autorizado por escrito. El landing viejo tenía testimonios inventados. No
+se migran. Hasta que existan Socios Fundadores reales, la sección de
+confianza habla del programa y del criterio de selección, no de clientes.
+
 ## Qué es "salida Lovable / plantilla de IA", y qué hacemos en su lugar
 
 Anti-patrones detectados en la landing vieja — si el copy o el diseño se
