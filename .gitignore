@@ -1,0 +1,11 @@
+# Entornos — nunca se comitean
+.env
+.env.*
+
+# Dependencias y builds
+node_modules
+dist
+
+# Sistema y despliegue
+.DS_Store
+.vercel

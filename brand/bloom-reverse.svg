@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <!-- El Bloom — versión reverse (screen), para superficies oscuras (Profundo) -->
+  <circle cx="72" cy="30" r="22" fill="#6A48F4" style="mix-blend-mode:screen"/>
+  <circle cx="48" cy="48" r="22" fill="#C05CFF" style="mix-blend-mode:screen"/>
+  <circle cx="72" cy="70" r="22" fill="#FF4DA6" style="mix-blend-mode:screen"/>
+  <circle cx="48" cy="90" r="22" fill="#FF8C0A" style="mix-blend-mode:screen"/>
+</svg>
